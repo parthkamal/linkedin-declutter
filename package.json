@@ -1,5 +1,15 @@
 {
   "dependencies": {
     "web-ext": "^7.6.2"
-  }
+  },
+  "name": "linkedin-declutter",
+  "version": "1.0.0",
+  "main": "linkedin.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
